@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-Hello, I'm Varsha, who is passionate about bringing data and technology together to build a better world through data and elevate, build and expand organizations and communities. Data Scientist with expertise in data analysis and reporting, optimization, database design, feature engineering and Machine learning modelling.
+Hello, I'm Varsha, who is passionate about bringing data and technology together to build a better world through data and elevate, build and expand organizations and communities. I am working as a Data Scientist with expertise in data analysis and reporting, optimization, database design, feature engineering and Machine learning modelling.
 
 - 👩🏼‍💻 Engineering in Information Technology(IT) + 5 years of professional experience as a Data scientist.
 - 🤓 End to end projects, from data collection to deployment including transformation, data analyis, feature engineering, feature importance, frature selection, outlier treatment, model data prep, modelling, prediction and building pipelines for automation.
